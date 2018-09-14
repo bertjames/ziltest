@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="70px" viewBox="0 0 69 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>518064BD-364A-4826-BDB9-B0EBB5770807</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <ellipse id="path-1" cx="29.8410519" cy="30" rx="29.8410519" ry="30"></ellipse>
+        <filter x="-14.2%" y="-10.8%" width="128.5%" height="128.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21557971 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page" transform="translate(-818.000000, -4526.000000)">
+            <g id="Group-28" transform="translate(-87.000000, 4375.000000)">
+                <g id="Group-48" transform="translate(87.000000, 2.000000)">
+                    <g id="Group-23" transform="translate(467.000000, 89.000000)">
+                        <g id="Group-24" transform="translate(0.000000, 63.000000)">
+                            <g id="Gitter" transform="translate(355.998514, 0.000000)">
+                                <g id="Group-8">
+                                    <g id="Oval-3">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                        <use fill="#23A5A8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    </g>
+                                    <path d="M16.4178138,10.8 L21.1923821,10.8 L21.1923821,34.8 L16.4178138,34.8 L16.4178138,10.8 Z M23.5796663,16.8 L28.3542346,16.8 L28.3542346,49.2 L23.5796663,49.2 L23.5796663,16.8 Z M30.7415187,16.8 L35.516087,16.8 L35.516087,49.2 L30.7415187,49.2 L30.7415187,16.8 Z M37.9033712,16.8 L42.6779395,16.8 L42.6779395,34.8 L37.9033712,34.8 L37.9033712,16.8 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

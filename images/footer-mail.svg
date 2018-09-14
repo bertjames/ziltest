@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>CD52E054-B454-4A3C-8664-802D0BCDE5B5</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <ellipse id="path-1" cx="29.8410519" cy="30" rx="29.8410519" ry="30"></ellipse>
+        <filter x="-14.2%" y="-10.8%" width="128.5%" height="128.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21557971 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page" transform="translate(-908.000000, -4526.000000)">
+            <g id="Group-28" transform="translate(-87.000000, 4375.000000)">
+                <g id="Group-48" transform="translate(87.000000, 2.000000)">
+                    <g id="Group-23" transform="translate(467.000000, 89.000000)">
+                        <g id="Group-24" transform="translate(0.000000, 63.000000)">
+                            <g id="Mail" transform="translate(446.422136, 0.000000)">
+                                <g id="Oval-3">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#23A5A8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <path d="M11.9364208,14.6666667 L11.9364208,46.6666667 L49.071952,46.6666667 L49.071952,14.6666667 L11.9364208,14.6666667 Z M45.2315192,18.2222222 L30.5041864,31.9342222 L15.7768536,18.2222222 L45.2315192,18.2222222 Z M15.0310484,43.1111111 L15.0310484,22.1031111 L30.5041864,36.5102222 L45.9773244,22.1031111 L45.9773244,43.1111111 L15.0310484,43.1111111 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

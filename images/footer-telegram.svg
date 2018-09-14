@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="70px" viewBox="0 0 69 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>D551E4A5-D487-4809-B595-D0F0972905FF</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <ellipse id="path-1" cx="29.8410519" cy="30" rx="29.8410519" ry="30"></ellipse>
+        <filter x="-14.2%" y="-10.8%" width="128.5%" height="128.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21557971 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page" transform="translate(-637.000000, -4526.000000)">
+            <g id="Group-28" transform="translate(-87.000000, 4375.000000)">
+                <g id="Group-48" transform="translate(87.000000, 2.000000)">
+                    <g id="Group-23" transform="translate(467.000000, 89.000000)">
+                        <g id="Group-24" transform="translate(0.000000, 63.000000)">
+                            <g id="Telegram" transform="translate(174.858094, 0.000000)">
+                                <g id="Oval-3">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#23A5A8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <path d="M38.5430706,46.3133038 C39.0555409,46.6781038 39.7160229,46.7693038 40.3048863,46.5453038 C40.8937497,46.3197038 41.3266439,45.8141038 41.4571488,45.2013038 C42.8401821,38.6669038 46.195112,22.1277038 47.4540066,16.1837038 C47.5494979,15.7357038 47.3903456,15.2701038 47.0402106,14.9709038 C46.6900756,14.6717038 46.2046612,14.5853038 45.771767,14.7469038 C39.098512,17.2301038 18.5471785,24.9821038 10.1471213,28.1069038 C9.61396122,28.3053038 9.26700926,28.8205038 9.28451601,29.3853038 C9.30361428,29.9517038 9.6823967,30.4429038 10.228289,30.6077038 C13.9954234,31.7405038 18.9402846,33.3165038 18.9402846,33.3165038 C18.9402846,33.3165038 21.2511757,40.3325038 22.4559584,43.9005038 C22.6071531,44.3485038 22.9556966,44.7005038 23.4156467,44.8221038 C23.8740052,44.9421038 24.3641942,44.8157038 24.7063716,44.4909038 C26.6416633,42.6541038 29.6337261,39.8141038 29.6337261,39.8141038 C29.6337261,39.8141038 35.3186454,44.0045038 38.5430706,46.3133038 Z M21.0204049,32.4301038 L23.6925716,41.2909038 L24.2862096,35.6797038 C24.2862096,35.6797038 34.6104178,26.3181038 40.495869,20.9821038 C40.6677535,20.8253038 40.6916263,20.5629038 40.5483893,20.3789038 C40.4067437,20.1949038 40.145734,20.1517038 39.9499767,20.2765038 C33.1287101,24.6557038 21.0204049,32.4301038 21.0204049,32.4301038 Z" id="telegram-1" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
